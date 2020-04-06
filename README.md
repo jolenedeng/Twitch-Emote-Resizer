@@ -1,5 +1,5 @@
 # Twitch-Emote-Resizer
-A simple twitch emote resizer to help emote artists (like me) resize their emotes quickly.
+A simple twitch emote resizer to help emote artists (like me) resize their emotes quickly. Requirements: Pillow library installed: https://pillow.readthedocs.io/en/stable/installation.html#basic-installation
 
 
 ## Instructions:
